@@ -1,4 +1,4 @@
-# Mourtar_JI
+# Moutar_JI
 19 March 2021
 
 This repository answer the take-home test for Software Engineer Intern application at Moutar.
